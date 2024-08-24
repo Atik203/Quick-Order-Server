@@ -1,7 +1,5 @@
 # Quick Order Server Starter
 
-The repository for server-side setup for a quick order system, designed specifically for educational purposes in the Next Level Web Development course. This project serves as a tutorial for integrating the AmarPay payment system into a server-side application.
-
 ---
 
 ### **Directory Structure**
@@ -83,4 +81,3 @@ To get started with this project, follow these steps:
    The server will be available at `http://localhost:3000` (or your configured port).
 
 ---
-
