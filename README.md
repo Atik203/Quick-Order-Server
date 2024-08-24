@@ -1,4 +1,4 @@
-# Quick Order Server Starter
+# Quick Order Server
 
 ---
 
